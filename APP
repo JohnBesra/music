@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     	<title>HOMETUBE.com</title>
+     </head>
+     <body background="1.jpg">
+     	<h1><font  size="400" color="blue"  face="wild west">PLAY MUSIC</font></h1>
+     	<a href="my new.html"><img src="zaynmalik.jpg" height="200px" width="200px" border="3"></a>
+     	<a href="22.html"><img src="Eminem.jpg" height="200px" width="200px" border="3"></a>
+     	<a href="23.html"><img src="2.png" height="200px" width="200px" border="3"></a>
+     	<a href="24.html"><img src="3.jpg" height="200px" width="200px" border="3"></a>
+     	<a href="25.html"><img src="4.jpg" height="200px" width="200px" border="3"></a>
+     	<a href="26.html"><img src="5.jpg" height="200px" width="200px" border="3"></a>
+     	<a href="https://www.youtube.com/user/EminemVEVO"><font size="40" color="red"> More favorates</font></a>
+        <h2><font  size="400" color="blue"  face="wild west">Vedio Library:</font>
+        <a href="v1.html"><img src="m1.jpg" height="200px" width="200px" border="3"></a>
+        <a href="v2.html"><img src="m2.jpg" height="200px" width="200px" border="3"></a>
+        <a href="v3.html"><img src="m3.jpg" height="200px" width="200px" border="3"></a>
+        <a href="v4.html"><img src="m4.png" height="200px" width="200px" border="3"></a>
+        <a href="https://www.youtube.com/user/EminemVEVO"><font size="40" color="red"> More favorates</font></a>
+     	<a href="https://www.facebook.com/john.besra.96">Contact Developer</a>
+     </body>
+</html>

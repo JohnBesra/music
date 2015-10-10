@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+     <head>
+     	<title>Player</title>
+     </head>
+     <body background="4.jpg" >
+     	<audio controls autoplay>
+             <source src="Space_Bound-Eminem[www.Mp3MaD.Com].mp3" type="audio/mpeg">
+        </audio>
+</html>

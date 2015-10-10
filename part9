@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+     <head>
+     	<title>Player</title>
+     </head>
+     <body background="2.png" >
+     	<audio controls autoplay>
+             <source src="Love_The_Way_You_Lie-Rihanna[www.Mp3MaD.Com].mp3" type="audio/mpeg">
+        </audio>
+</html>

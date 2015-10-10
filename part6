@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+     <head>
+     	<title>Player</title>
+     </head>
+     <body background="5.jpg" >
+     	<audio controls autoplay>
+             <source src="System Of A Down - 03 Chop Suey.mp3" type="audio/mpeg">
+        </audio>
+</html>
